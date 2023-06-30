@@ -1,0 +1,9 @@
+num = input('Digite um número de 0 a 9999: ')
+uni = num[3:4]
+dez = num[2:3]
+cen = num[1:2]
+mil = num[0:1]
+print(f'''Unidade = {uni}
+Dezena = {dez}
+Centena = {cen}
+Milhar = {mil}''')
