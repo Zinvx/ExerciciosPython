@@ -9,3 +9,4 @@ Atividades de python das aulas do "Curso de Python 3" produzido pelo canal Curso
 3. Operadores aritméticos.
 4. Módulos.
 5. Manipulação de texto.
+6. Condições (Parte1)
